@@ -4,6 +4,24 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/monitoring?activeTab=versions
 
+## [2.0.0](https://www.github.com/googleapis/nodejs-monitoring/compare/v1.7.0...v2.0.0) (2020-03-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* monitoring convert to typescript (#360)
+
+### Features
+
+* deferred client initialization ([#378](https://www.github.com/googleapis/nodejs-monitoring/issues/378)) ([61eca6a](https://www.github.com/googleapis/nodejs-monitoring/commit/61eca6a6f4447fe5a8d30ee6c40034fb1f7bbb60))
+* export protos in src/index.ts ([#369](https://www.github.com/googleapis/nodejs-monitoring/issues/369)) ([b0af4b1](https://www.github.com/googleapis/nodejs-monitoring/commit/b0af4b1b48254f91ec9aa9cead1ff0a6714a6393))
+* monitoring convert to typescript ([#360](https://www.github.com/googleapis/nodejs-monitoring/issues/360)) ([5bbd963](https://www.github.com/googleapis/nodejs-monitoring/commit/5bbd96307cc47066b00048e494bfa566ea58650d))
+
+
+### Bug Fixes
+
+* updated proto files with new proto annotations ([cf8cc77](https://www.github.com/googleapis/nodejs-monitoring/commit/cf8cc770ec5fa17874fd67df1469ffa3b2724628))
+
 ## [1.7.0](https://www.github.com/googleapis/nodejs-monitoring/compare/v1.6.1...v1.7.0) (2019-12-31)
 
 
